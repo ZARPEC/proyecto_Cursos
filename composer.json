@@ -1,0 +1,15 @@
+{
+    "name": "zarpec/enlaces",
+    "description": "manejo de cursos y usuarios en php",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Zarpec\\Enlaces\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "fpdf/fpdf": "^1.86"
+    }
+}
